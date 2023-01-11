@@ -1,1 +1,1 @@
-# AT-T-Test-Data
+This SQL query and the view it creates, "FinalResults", is designed to provide a detailed summary of test results for each ID in the AT&TTestData table. It includes information such as the number of Pass and Fail results, the latest time a Pass result was recorded, and the earliest time a Fail result was recorded. It also includes a FinalResult column which indicates whether the overall results for each ID are considered Pass or Fail.
